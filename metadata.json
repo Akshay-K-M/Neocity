@@ -1,0 +1,8 @@
+
+{
+  "name": "NeoCity Gang Recruitment Portal",
+  "description": "An immersive cyberpunk-themed recruitment portal for an underground gang. Applicants must prove their worth through a series of challenges, including an AI-judged voice analysis, to be assigned a role in the neon-drenched sprawl of NeoCity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

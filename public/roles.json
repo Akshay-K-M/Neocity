@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Code-Wraith",
+    "position": "Netrunner",
+    "description": "Ghosts in the machine, Code-Wraiths manipulate the data streams that are the lifeblood of NeoCity. They dismantle corporate firewalls and bend the net to the Vipers' will.",
+    "traits": ["Cunning", "Patient", "Tech-Savvy", "Analytical"]
+  },
+  {
+    "name": "Chrome-Reaper",
+    "position": "Street Samurai",
+    "description": "The brutal enforcers of the Vipers. Part flesh, part steel, all business. They are the frontline in any turf war, masters of intimidation and close-quarters combat.",
+    "traits": ["Brave", "Aggressive", "Loyal", "Decisive"]
+  },
+  {
+    "name": "Whisper-Broker",
+    "position": "Fixer",
+    "description": "Information is power, and Whisper-Brokers are the power plant. They trade in secrets, weapons, and influence, connecting the Vipers to the rest of the underworld.",
+    "traits": ["Charismatic", "Resourceful", "Manipulative", "Pragmatic"]
+  },
+  {
+    "name": "Scrap-Savant",
+    "position": "Techie",
+    "description": "Masters of hardware and improvisation. Scrap-Savants can turn a pile of junk into a lethal drone or a bypass a state-of-the-art mag-lock with a paperclip and a prayer.",
+    "traits": ["Innovative", "Meticulous", "Adaptable", "Problem-Solver"]
+  }
+]
